@@ -2,6 +2,11 @@
 <html lang="en">
 
 <body>
-<img src="brucvas - con fondo_Original.png" alt="Original" media="(prefers-color-scheme: light)">
-<img src="brucvas - con fondo_Original.png" alt="Original" media="(prefers-color-scheme: dark)">
+
+<picture>
+        <source media="(prefers-color-scheme: light)" srcset="brucvas - con fondo_Original.png">
+        <source media="(prefers-color-scheme: dark)" srcset="brucvas - con fondo_Original.png">
+        <img src="brucvas - con fondo_Negativo" alt="Original">
+</picture>
+
 </body>
