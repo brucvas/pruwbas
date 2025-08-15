@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> 
-        Hi! I'm Bruce
+        Hi! I'm Bruce👋
         <picture>
                 <source media="(prefers-color-scheme: light)" srcset="github1.png">
                 <source media="(prefers-color-scheme: dark)" srcset="github2.png">
