@@ -1,12 +1,11 @@
 
 
-<h1> 
-        Hi!
-        I'm Bruce
+<h1 align="center"> 
+        Hi! I'm Bruce
         <picture>
-                <source media="(prefers-color-scheme: light)" srcset="github1.png" style="display:inline">
-                <source media="(prefers-color-scheme: dark)" srcset="github2.png" style="display:inline">
-                <img src="github2.png" alt="Original" style="display:inline">
+                <source media="(prefers-color-scheme: light)" srcset="github1.png">
+                <source media="(prefers-color-scheme: dark)" srcset="github2.png">
+                <img src="github2.png" alt="Original" align="right">
         </picture>
 </h1>
 
